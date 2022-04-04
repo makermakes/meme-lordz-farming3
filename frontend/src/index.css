@@ -9,9 +9,9 @@ body {
 
 @media screen and (min-width: 768px) {
   body {
-    background-image: url('https://memelordz.io/wp-content/uploads/2021/11/masthead2.jpg');
+    background-image: url('https://memelordz.io/wp-content/uploads/2021/11/token-background.png');
     background-size: cover;
-    background-position: center bottom;
+    background-position: center center;
   }
 }
 
